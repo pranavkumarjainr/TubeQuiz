@@ -1,0 +1,10 @@
+streamlit
+boto3
+yt-dlp
+youtube-transcript-api
+requests
+json
+os
+time
+re
+
